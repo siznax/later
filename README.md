@@ -18,9 +18,11 @@ https://yaml.org/
     - album
     - artist
     - documentary
+    - episode
     - performance
     - playlist
     - song
+    - store
     - trailer
     - tbd
     - unknown
