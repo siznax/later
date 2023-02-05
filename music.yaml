@@ -1,147 +1,173 @@
-trailer:
-- title: Fight the Power: How Hip Hip Changed the World
-- url: https://www.youtube.com/watch?v=r7e_EwTHN00
+---
 
-lesson:
-- title: Jens Larsen Autumn Leaves Lessons
-- creator: Jens Larsen
-- url: https://www.youtube.com/@JensLarsen/search?query=autumn%20leaves
+- trailer:
+    - title: "Fight the Power: How Hip Hip Changed the World"
+    - url: https://www.youtube.com/watch?v=r7e_EwTHN00
 
-episode:
-- title: The Day The Music Stopped
-- url: https://slate.com/podcasts/one-year/s4/1942/e3/recording-ban-1942-james-c-petrillo-the-american-federation-of-musicians-and-the-creation-of-bebop
-- note: The American Federation of Musicians and the creation of Bebop
-  
-lesson:
-- title: The Most Important Scale Exercise In Jazz
-- creator: Jens Larsen
-- url: https://www.youtube.com/watch?v=2Ze22BNftAA
+- song:
+    - title: Coco
+    - artist: Charlie Parker, Dizzie Gillespie, Max Roach
+    - year: 1944
+    - label: Apollo Records
 
-lesson:
-- url: https://www.youtube.com/embed/Yfdso0HerjE
-- title: I recreated "A Day In The Life" from scratch
-- creator: David Bennett Piano
-    
-article:
-- title: Locked Grooves Vinyl - Endlessly Fun (Literally)
-- url: https://www.yoursoundmatters.com/locked-grooves-endless-fun-literally/
+- lesson:
+    - title: Jens Larsen Autumn Leaves Lessons
+    - creator: Jens Larsen
+    - url: https://www.youtube.com/@JensLarsen/search?query=autumn%20leaves
 
-performance:
-- artist: Delvon Lamarr Organ Trio
-- title: The Delvon Lamarr Organ Trio Live at Gateway Park
-- url: https://www.youtube.com/watch?v=lMamCcvF69I
-- year: 2022
+- documentary:
+    - title: "Vinyl Nation: A Documentary Dig Into The Record Resurgance"
+    - url:
+        - https://vinylnationfilm.com/
+        - https://youtu.be/vuje9HakFwY
+    - recommended-by: Sander
+    - note: |
+        This great documentary has been out for a while, but was
+        dropped on YouTube about week ago. It does a good job of
+        showing the passion for vinyl and the connection between
+        collectors. —Sander
 
-album:
-- artist: Sons of Kemet
-- recommended-by: Kevin (Marina Pest Control)
-- title: Black To The Future
-- url: https://www.youtube.com/playlist?list=OLAK5uy_nQGpyiBh8IYAw-y3PtYjVqvuvhT8_Q96w
-- year: 2021
-    
-album:
-- artist: The Comet Is Coming
-- recommended-by: Kevin (Marina Pest Control)
-- title: Hyper-Dimensional Expansion Beam
-- url: https://www.youtube.com/playlist?list=OLAK5uy_kpH60HaIGkB4U9Ly1owqUVhRvht1ou2zE
-- year: 2022
+- article:
+    - title: How Your Favorite Songs Might Reveal Your Attachment Style
+    - url: https://greatergood.berkeley.edu/article/item/how_your_favorite_songs_might_reveal_your_attachment_style
 
-album:
-- artist: Shabaka and the Ancestors
-- recommended-by: Kevin (Marina Pest Control)
-- title: We Are Sent Here By History
-- url: https://www.youtube.com/playlist?list=OLAK5uy_kajAEmcmTyRp0XrZVK9oIxzmVEDOBuJ2o
-- year: 2020
+- episode:
+    - title: The Day The Music Stopped
+    - url: https://slate.com/podcasts/one-year/s4/1942/e3/recording-ban-1942-james-c-petrillo-the-american-federation-of-musicians-and-the-creation-of-bebop
+    - note: The American Federation of Musicians and the creation of Bebop
 
-album:
-- artist: Burna Boy
-- genre: African Hip Hop
-- recommended-by: Kevin (Marina Pest Control)
-- title: Love, Damini
-- url: https://www.youtube.com/playlist?list=OLAK5uy_mRxHJaWXGmQ0GhtiZxbD3XiQSMFptqCWc
-- year: 2022
-    
-store:
-- name: Sala Muzik
-- note: Persian, Turkish & Arabic Instruments that Celebrate the Unique Sound of Eastern Music
-- url: https://salamuzik.com/
-  
-performance: 
-- artist: Sam Smith
-- creator: SNL
-- title: Sam Smith (Gloria)
-- url: https://www.youtube.com/embed/xFq8sojJNDo
-- year: 2023
+- lesson:
+    - title: The Most Important Scale Exercise In Jazz
+    - creator: Jens Larsen
+    - url: https://www.youtube.com/watch?v=2Ze22BNftAA
 
-artist:
-- name: Bill Frisell
-- url: https://www.discogs.com/artist/144927-Bill-Frisell
+- lesson:
+    - url: https://www.youtube.com/embed/Yfdso0HerjE
+    - title: I recreated "A Day In The Life" from scratch
+    - creator: David Bennett Piano
 
-album:
-- title: Balance Point
-- artist: Art Hirahara
-- url: https://www.youtube.com/playlist?list=OLAK5uy_mgVcuAUcMGMiSf4eB1vaq2b92KazT9R5Y
+- article:
+    - title: Locked Grooves Vinyl - Endlessly Fun (Literally)
+    - url: https://www.yoursoundmatters.com/locked-grooves-endless-fun-literally/
 
-album:
-- artist: Mark Levine Trio
-- title: One Notch Up
-- url: https://www.youtube.com/playlist?list=OLAK5uy_lbXqMplopj94Iqz4XaH73aQOL3875HUmA
-    
-album:
-- artist: Chris Lujan & Electric Butter feat. Andre Cruz
-- title: The Real Thing
-- url: https://chrislujanelectricbutter.bandcamp.com/album/the-real-thing
+- performance:
+    - artist: Delvon Lamarr Organ Trio
+    - title: The Delvon Lamarr Organ Trio Live at Gateway Park
+    - url: https://www.youtube.com/watch?v=lMamCcvF69I
+    - year: 2022
 
-album:
-- artist: Chet Baker
-- title: Chet Baker Sings and Plays
-- url: https://www.youtube.com/playlist?list=OLAK5uy_nNK4qxrMVVMP48Ih7KICHx_tdxy9-UxeQ
-- year: 1967
+- album:
+    - artist: Sons of Kemet
+    - recommended-by: Kevin (Marina Pest Control)
+    - title: Black To The Future
+    - url: https://www.youtube.com/playlist?list=OLAK5uy_nQGpyiBh8IYAw-y3PtYjVqvuvhT8_Q96w
+    - year: 2021
 
-album:
-- artist: Satellites
-- title: Şatellites
-- url: https://satellites-tlv.bandcamp.com/album/atellites
-- img: https://f4.bcbits.com/img/a2699131259_16.jpg
-- year: 2022
+- album:
+    - artist: The Comet Is Coming
+    - recommended-by: Kevin (Marina Pest Control)
+    - title: Hyper-Dimensional Expansion Beam
+    - url: https://www.youtube.com/playlist?list=OLAK5uy_kpH60HaIGkB4U9Ly1owqUVhRvht1ou2zE
+    - year: 2022
 
-performance:
-- artist: Satellites
-- creator: KEXP
-- title: Satellites (Full Peformance)
-- url: https://www.youtube.com/embed/fS2F5knj6bg
-- year: 2023
+- album:
+    - artist: Shabaka and the Ancestors
+    - recommended-by: Kevin (Marina Pest Control)
+    - title: We Are Sent Here By History
+    - url: https://www.youtube.com/playlist?list=OLAK5uy_kajAEmcmTyRp0XrZVK9oIxzmVEDOBuJ2o
+    - year: 2020
 
-album:
-- artist: William Onyeabor
-- title: World Psychedelic Classics 5: Who is William Onyeabor?
-- url: https://williamonyeabor.bandcamp.com/album/world-psychedelic-classics-5-who-is-william-onyeabor
+- album:
+    - artist: Burna Boy
+    - genre: African Hip Hop
+    - recommended-by: Kevin (Marina Pest Control)
+    - title: Love, Damini
+    - url: https://www.youtube.com/playlist?list=OLAK5uy_mRxHJaWXGmQ0GhtiZxbD3XiQSMFptqCWc
+    - year: 2022
 
-video:
-- artist: Alicia Keys
-- title: Lift Every Voice and Sing Performance
-- url: https://www.youtube.com/watch?v=DS60luWpBe0
+- store:
+    - name: Sala Muzik
+    - note: Persian, Turkish & Arabic Instruments that Celebrate the Unique Sound of Eastern Music
+    - url: https://salamuzik.com/
 
-performance:
-- artist: Dua Lipa
-- title: Dua Lipa: Tiny Desk (Home) Concert
-- url: https://www.youtube.com/watch?v=F4neLJQC1_E
-- year: 2020
+- performance:
+    - artist: Sam Smith
+    - creator: SNL
+    - title: Sam Smith (Gloria)
+    - url: https://www.youtube.com/embed/xFq8sojJNDo
+    - year: 2023
 
-performance:
-- artist: St. Vincent
-- title: St Vincent - Dig A Pony - Live @ All Points West Festival 8/1/09 in HD
-- url: https://www.youtube.com/watch?v=lan-UQfN0zs
-- year: 2009
+- artist:
+    - name: Bill Frisell
+    - url: https://www.discogs.com/artist/144927-Bill-Frisell
 
-performance:
-- title: SFJAZZ Singles: Flor de Toloache performs “Regresa Yá”
-- artist: Flor de Toloache
-- url: https://www.youtube.com/watch?v=yQKOfz9Vdqg
-- genre: Mariachi
+- album:
+    - title: Balance Point
+    - artist: Art Hirahara
+    - url: https://www.youtube.com/playlist?list=OLAK5uy_mgVcuAUcMGMiSf4eB1vaq2b92KazT9R5Y
 
-performance:
-- artist: Delvon Lamarr Organ Trio
-- title: Delvon Lamarr Organ Trio - Warm-up Set (Live on KEXP)
-- url: https://www.youtube.com/watch?v=jhicDUgXyNg
-- year: 2017
+- album:
+    - artist: Mark Levine Trio
+    - title: One Notch Up
+    - url: https://www.youtube.com/playlist?list=OLAK5uy_lbXqMplopj94Iqz4XaH73aQOL3875HUmA
+
+- album:
+    - artist: Chris Lujan & Electric Butter feat. Andre Cruz
+    - title: The Real Thing
+    - url: https://chrislujanelectricbutter.bandcamp.com/album/the-real-thing
+
+- album:
+    - artist: Chet Baker
+    - title: Chet Baker Sings and Plays
+    - url: https://www.youtube.com/playlist?list=OLAK5uy_nNK4qxrMVVMP48Ih7KICHx_tdxy9-UxeQ
+    - year: 1967
+
+- album:
+    - artist: Satellites
+    - title: Şatellites
+    - url: https://satellites-tlv.bandcamp.com/album/atellites
+    - img: https://f4.bcbits.com/img/a2699131259_16.jpg
+    - year: 2022
+
+- performance:
+    - artist: Satellites
+    - creator: KEXP
+    - title: Satellites (Full Peformance)
+    - url: https://www.youtube.com/embed/fS2F5knj6bg
+    - year: 2023
+
+- album:
+    - artist: William Onyeabor
+    - title: "World Psychedelic Classics 5: Who is William Onyeabor?"
+    - url: https://williamonyeabor.bandcamp.com/album/world-psychedelic-classics-5-who-is-william-onyeabor
+
+- video:
+    - artist: Alicia Keys
+    - title: Lift Every Voice and Sing Performance
+    - url: https://www.youtube.com/watch?v=DS60luWpBe0
+
+- performance:
+    - artist: Dua Lipa
+    - title: "Dua Lipa: Tiny Desk (Home) Concert"
+    - url: https://www.youtube.com/watch?v=F4neLJQC1_E
+    - year: 2020
+
+- performance:
+    - artist: St. Vincent
+    - title: St Vincent - Dig A Pony - Live @ All Points West Festival 8/1/09 in HD
+    - url: https://www.youtube.com/watch?v=lan-UQfN0zs
+    - year: 2009
+
+- performance:
+    - title: 'SFJAZZ Singles: Flor de Toloache performs “Regresa Yá”'
+    - artist: Flor de Toloache
+    - url: https://www.youtube.com/watch?v=yQKOfz9Vdqg
+    - genre: Mariachi
+
+- performance:
+    - artist: Delvon Lamarr Organ Trio
+    - title: Delvon Lamarr Organ Trio - Warm-up Set (Live on KEXP)
+    - url: https://www.youtube.com/watch?v=jhicDUgXyNg
+    - year: 2017
+
+...

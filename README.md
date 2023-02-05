@@ -16,6 +16,7 @@ https://yaml.org/
 
     what:
     - album
+    - article
     - artist
     - documentary
     - episode
