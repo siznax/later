@@ -3,6 +3,21 @@ trailer:
 - url: https://www.youtube.com/watch?v=r7e_EwTHN00
 
 lesson:
+- title: Jens Larsen Autumn Leaves Lessons
+- creator: Jens Larsen
+- url: https://www.youtube.com/@JensLarsen/search?query=autumn%20leaves
+
+episode:
+- title: The Day The Music Stopped
+- url: https://slate.com/podcasts/one-year/s4/1942/e3/recording-ban-1942-james-c-petrillo-the-american-federation-of-musicians-and-the-creation-of-bebop
+- note: The American Federation of Musicians and the creation of Bebop
+  
+lesson:
+- title: The Most Important Scale Exercise In Jazz
+- creator: Jens Larsen
+- url: https://www.youtube.com/watch?v=2Ze22BNftAA
+
+lesson:
 - url: https://www.youtube.com/embed/Yfdso0HerjE
 - title: I recreated "A Day In The Life" from scratch
 - creator: David Bennett Piano
@@ -10,6 +25,12 @@ lesson:
 article:
 - title: Locked Grooves Vinyl - Endlessly Fun (Literally)
 - url: https://www.yoursoundmatters.com/locked-grooves-endless-fun-literally/
+
+performance:
+- artist: Delvon Lamarr Organ Trio
+- title: The Delvon Lamarr Organ Trio Live at Gateway Park
+- url: https://www.youtube.com/watch?v=lMamCcvF69I
+- year: 2022
 
 album:
 - artist: Sons of Kemet
@@ -20,12 +41,14 @@ album:
     
 album:
 - artist: The Comet Is Coming
+- recommended-by: Kevin (Marina Pest Control)
 - title: Hyper-Dimensional Expansion Beam
 - url: https://www.youtube.com/playlist?list=OLAK5uy_kpH60HaIGkB4U9Ly1owqUVhRvht1ou2zE
 - year: 2022
 
 album:
 - artist: Shabaka and the Ancestors
+- recommended-by: Kevin (Marina Pest Control)
 - title: We Are Sent Here By History
 - url: https://www.youtube.com/playlist?list=OLAK5uy_kajAEmcmTyRp0XrZVK9oIxzmVEDOBuJ2o
 - year: 2020
@@ -38,7 +61,7 @@ album:
 - url: https://www.youtube.com/playlist?list=OLAK5uy_mRxHJaWXGmQ0GhtiZxbD3XiQSMFptqCWc
 - year: 2022
     
-retailer:
+store:
 - name: Sala Muzik
 - note: Persian, Turkish & Arabic Instruments that Celebrate the Unique Sound of Eastern Music
 - url: https://salamuzik.com/
@@ -98,3 +121,27 @@ video:
 - artist: Alicia Keys
 - title: Lift Every Voice and Sing Performance
 - url: https://www.youtube.com/watch?v=DS60luWpBe0
+
+performance:
+- artist: Dua Lipa
+- title: Dua Lipa: Tiny Desk (Home) Concert
+- url: https://www.youtube.com/watch?v=F4neLJQC1_E
+- year: 2020
+
+performance:
+- artist: St. Vincent
+- title: St Vincent - Dig A Pony - Live @ All Points West Festival 8/1/09 in HD
+- url: https://www.youtube.com/watch?v=lan-UQfN0zs
+- year: 2009
+
+performance:
+- title: SFJAZZ Singles: Flor de Toloache performs “Regresa Yá”
+- artist: Flor de Toloache
+- url: https://www.youtube.com/watch?v=yQKOfz9Vdqg
+- genre: Mariachi
+
+performance:
+- artist: Delvon Lamarr Organ Trio
+- title: Delvon Lamarr Organ Trio - Warm-up Set (Live on KEXP)
+- url: https://www.youtube.com/watch?v=jhicDUgXyNg
+- year: 2017
